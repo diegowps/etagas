@@ -7,6 +7,23 @@
     "theme_color": "#faa300",
     "background_color": "#fff",
     "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "related_applications": [],
+    "service_worker": {
+        "src": "./sw.js",
+        "scope": "/etagas/"
+    },
+    "splash_screens": [
+        {
+            "src": "./img/splash.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "categories": [
+        "utilities",
+        "productivity"
+    ],
     "description": "Aplicativo para verificar o combustível que vale mais em carros flex - gasolina ou etanol",
     "dir": "ltr",
     "lang": "pt-BR",
