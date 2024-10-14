@@ -1,5 +1,5 @@
 {
-    "name": "Gasolina ou Etanol",
+    "name": "Gasolina ou Etanol?",
     "short_name": "Flex",
     "lang": "pt-BR",
     "dir": "ltr",
@@ -11,6 +11,84 @@
     "prefer_related_applications": false,
     "orientation": "portrait-primary",
     "description": "Aplicativo para calcular qual combustível é mais vantajoso",
+    "screenshots": [
+        {
+            "src": "img/Flex51.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex57.png",
+            "sizes": "57x57",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex76.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex114.png",
+            "sizes": "114x114",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex60.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex167.png",
+            "sizes": "167x167",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "img/Flex32.png",
     "icons": [
         {
             "src": "img/Flex51.png",
