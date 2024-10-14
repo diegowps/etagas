@@ -4,7 +4,7 @@
     "lang": "pt-BR",
     "dir": "ltr",
     "theme_color": "#2196F3",
-    "start_url": "/",
+    "start_url": "./etagas/",
     "scope": "/",
     "background_color": "#2196F3",
     "display": "standalone",

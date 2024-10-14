@@ -1,7 +1,7 @@
 /**
  * PWA - Flex
- * @author Professor José de Assis
- * @link https://joseassis.com.br/
+ * @author Diego
+ * @link https://github.com/diegowps
  */
 
 function calcular() {
